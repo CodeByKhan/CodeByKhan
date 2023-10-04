@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CodeByKhan
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps Basics
+- 💞️ I’m looking to collaborate on anyting on devops
+- 📫 How to reach me @codebykhan@gmail.com
